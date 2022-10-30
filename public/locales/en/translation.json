@@ -1,0 +1,20 @@
+{
+	"hero":{
+		"1": "A new",
+		"2": "Generation",
+		"3": "of infrastructure development.",
+		"4": "Our team of experts uses a methodology to Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	"getStarted":{
+		"1": "Get",
+		"2": "Started"
+	},
+	"navigation":{
+		"1": "Home",
+		"2": "Services",
+		"3": "Projects",
+		"4": "Clients",
+		"5": "Contacts"
+
+	}
+}
