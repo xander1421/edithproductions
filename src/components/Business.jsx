@@ -1,42 +1,92 @@
 import { services } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
+import { useTranslation } from 'react-i18next';
+import { star, shield, send   } from "../assets";
 
-const FeatureCard = ({ icon, title, content, index }) => (
-  <div className={`flex flex-row p-6 rounded-[20px] ${index !== services.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
+
+const FeatureCard1 = () => {
+  const { t, i18n } = useTranslation();
+  return (
+  <div className={`flex flex-row p-6 rounded-[20px] "mb-6" : "mb-0"} feature-card`}>
     <div className={`w-[64px] h-[64px] rounded-full ${styles.flexCenter} bg-dimBlue`}>
-      <img src={icon} alt="star" className="w-[50%] h-[50%] object-contain" />
+      <img src={star} alt="star" className="w-[50%] h-[50%] object-contain" />
     </div>
     <div className="flex-1 flex flex-col ml-3">
       <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23.4px] mb-1">
-        {title}
+      {t('FeatureCard.FeatureCard1.title')}
       </h4>
       <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
-        {content}
+      {t('FeatureCard.FeatureCard1.content')}
       </p>
     </div>
   </div>
-);
+  );
+};
 
-const Business = () =>  (
+const FeatureCard2 = () => {
+  const { t, i18n } = useTranslation();
+  return (
+  <div className={`flex flex-row p-6 rounded-[20px] "mb-6" : "mb-0"} feature-card`}>
+    <div className={`w-[64px] h-[64px] rounded-full ${styles.flexCenter} bg-dimBlue`}>
+      <img src={shield} alt="shield" className="w-[50%] h-[50%] object-contain" />
+    </div>
+    <div className="flex-1 flex flex-col ml-3">
+      <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23.4px] mb-1">
+      {t('FeatureCard.FeatureCard2.title')}
+      </h4>
+      <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
+      {t('FeatureCard.FeatureCard2.content')}
+      </p>
+    </div>
+  </div>
+  );
+};
+
+const FeatureCard3 = () => {
+  const { t, i18n } = useTranslation();
+  return (
+  <div className={`flex flex-row p-6 rounded-[20px] "mb-6" : "mb-0"} feature-card`}>
+    <div className={`w-[64px] h-[64px] rounded-full ${styles.flexCenter} bg-dimBlue`}>
+      <img src={send} alt="send" className="w-[50%] h-[50%] object-contain" />
+    </div>
+    <div className="flex-1 flex flex-col ml-3">
+      <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23.4px] mb-1">
+      {t('FeatureCard.FeatureCard3.title')}
+      </h4>
+      <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
+      {t('FeatureCard.FeatureCard3.content')}
+      </p>
+    </div>
+  </div>
+  );
+};
+
+const Business = () =>  {
+
+  const { t, i18n } = useTranslation();
+  
+  return(
   <section id="services" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Why choose us <br className="sm:block hidden" />
+      {t('BusinessCard.title')} <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        {t('BusinessCard.content')}
       </p>
 
       <Button styles={`mt-10`} />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
-      {services.map((feature, index) => (
-        <FeatureCard key={feature.id} {...feature} index={index} />
-      ))}
+        <FeatureCard1 key="feature-1"/>
+        <FeatureCard2 key="feature-2"/>
+        <FeatureCard3 key="feature-3"/>
+
+
     </div>
   </section>
-);
-
+  );
+};
 export default Business;

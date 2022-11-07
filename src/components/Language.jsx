@@ -48,11 +48,11 @@ const Language = () => {
                 RO
               </option>
               <option key="en" value="en">
-              EN
-            </option>
-              <option key="ru" value="ru">
-              RU
-            </option>
+                EN
+              </option>
+                <option key="ru" value="ru">
+                RU
+              </option>
           </select>
         </div>
     </div>

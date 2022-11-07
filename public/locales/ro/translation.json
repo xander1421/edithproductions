@@ -9,12 +9,123 @@
 		"1": "Incepe",
 		"2": ""
 	},
-	"navigation":{
-		"1": "Home",
-		"2": "Services",
-		"3": "Projects",
-		"4": "Clients",
-		"5": "Contacts"
+	"navLinks":{
+		"0": "Despre",
+		"1": "Servicii",
+		"2": "Proiecte",
+		"3": "Clienți",
+		"4": "Contacte"
+	},
+	"FeatureCard":{
+		"FeatureCard1":{
+			"title": "ISO certificare",
+			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 
-	}
+		},
+		"FeatureCard2":{
+			"title": "100% Proiecte finisate",
+			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+		},
+		"FeatureCard3":{
+			"title": "Comunicare usoara",
+			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		}
+
+	},
+	"BusinessCard":{
+		"title": "De ce noi",
+		"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+	},
+	"Button":{
+		"1": "Începe"
+
+	},
+	"CardDeal":{
+		"1": "Vezi cele mai recente proiecte ale noastre",
+		"2": "",
+		"3": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+	},
+	"BillingCard":{
+		"1": "Controlează",
+		"2": "dezvoltarea proiectelor",
+		"3": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	"StatsCards":{
+
+		"StatsCard1":{
+			"title": "Clienți satisfăcuți",
+			"content": "30+"
+
+		},
+		"StatsCard2":{
+			"title": "Ani pe piață",
+			"content": "7+"
+
+		},
+		"StatsCard3":{
+			"title": "Proiecte finalizated",
+			"content": "40+"
+		}
+
+	},
+	"Contacts":{
+		"1": "Intră în contact cu noi",
+		"2": "RO-Get an free estimate as a first time customer!!"
+	},
+	"TestimonialsCard":{
+		"1": "Ce spun clientii nostri",
+		"2": "despre noi",
+		"3": "Suntem echipa pe care o suni atunci cand vrei sa incepi sa construiesti infrastructuri care vor dura generații"
+	},
+	"FeedbackCard":{
+		"FeedbackCard1":{
+			"name": "RO-Steve Mark",
+			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "RO-Founder & Leader"
+
+
+		},
+		"FeedbackCard2":{
+			"name": "RO-Herman Jensen",
+			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "RO-Founder & Leader"
+		},
+		"FeedbackCard3":{
+			"name": "RO-Kenn Gallagher",
+			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "RO-Founder & Leader"
+		}
+
+	},
+	"FooterText":{
+		"Text": "Un nou mod de a construi infrastructuri, fiabil și sigur."
+	},
+	"FooterCategory":{
+		"0": "RO-Useful Links",
+		"1": "RO-Community",
+		"2": "RO-Partner"
+	},
+	"FooterCard":[
+		{
+			"0": "RO-Content",
+			"1": "RO-How it Works",
+			"2": "RO-Create",
+			"3": "RO-Explore",
+			"4": "RO-Terms & Services"
+		},
+		{
+			"0": "RO-Help Center",
+			"1": "RO-Partners",
+			"2": "RO-Suggestions",
+			"3": "RO-Blog",
+			"4": "RO-Newsletters"
+		},
+		{
+			"0": "RO-Our Partner",
+			"1": "RO-Become a Partner"
+		}
+	]
 }

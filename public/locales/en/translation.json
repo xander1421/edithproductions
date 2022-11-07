@@ -9,12 +9,122 @@
 		"1": "Get",
 		"2": "Started"
 	},
-	"navigation":{
-		"1": "Home",
-		"2": "Services",
-		"3": "Projects",
-		"4": "Clients",
-		"5": "Contacts"
+	"navLinks":{
+		"0": "Home",
+		"1": "Services",
+		"2": "Projects",
+		"3": "Clients",
+		"4": "Projects"
+	},
+	"FeatureCard":{
+		"FeatureCard1":{
+			"title": "ISO Certified",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 
-	}
+		},
+		"FeatureCard2":{
+			"title": "100% Project completion",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+		},
+		"FeatureCard3":{
+			"title": "Easy communication",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		}
+
+	},
+	"BusinessCard":{
+		"title": "Why choose us",
+		"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+	},
+	"Button":{
+		"1": "Start building"
+
+	},
+	"CardDeal":{
+		"1": "See our most recent",
+		"2": "projects.",
+		"3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+	},
+	"BillingCard":{
+		"1": "Control your",
+		"2": "projects development",
+		"3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	"StatsCards":{
+
+		"StatsCard1":{
+			"title": "Satisfied clients",
+			"content": "30+"
+
+		},
+		"StatsCard2":{
+			"title": "Years on the market",
+			"content": "7+"
+
+		},
+		"StatsCard3":{
+			"title": "Projects finished",
+			"content": "40+"
+		}
+
+	},
+	"Contacts":{
+		"1": "Get in touch with us",
+		"2": "Get an free estimate as a first time customer!!"
+	},
+	"TestimonialsCard":{
+		"1": "What People are",
+		"2": "saying about us",
+		"3": "We are the team you call when you want to start building infrastructure that will last generations."
+	},
+	"FeedbackCard":{
+		"FeedbackCard1":{
+			"name": "Steve Mark",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "Founder & Leader"
+
+
+		},
+		"FeedbackCard2":{
+			"name": "Herman Jensen",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "Founder & Leader"
+		},
+		"FeedbackCard3":{
+			"name": "Kenn Gallagher",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "Founder & Leader"
+		}
+	},
+	"FooterText":{
+		"Text": "A new way build infrastructure, reliably and secure."
+	},
+	"FooterCategory":{
+		"0": "Useful Links",
+		"1": "Community",
+		"2": "Partner"
+	},
+	"FooterCard":[
+		{
+			"0": "Content",
+			"1": "How it Works",
+			"2": "Create",
+			"3": "Explore",
+			"4": "Terms & Services"
+		},
+		{
+			"0": "Help Center",
+			"1": "Partners",
+			"2": "Suggestions",
+			"3": "Blog",
+			"4": "Newsletters"
+		},
+		{
+			"0": "Our Partner",
+			"1": "Become a Partner"
+		}
+	]
 }

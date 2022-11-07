@@ -9,19 +9,18 @@ const Hero = () => {
   const { t, i18n } = useTranslation();
 
   return (
-    
     <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
 
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className="flex flex-row justify-between items-center w-full">
-          <h1 className="flex-1 font-poppins font-semibold ss:text-[32px] text-[52px] text-white ss:leading-[40.8px] leading-[75px]">
+          <h1 className="flex-1 font-poppins font-semibold ss:text-[32px] text-[42px] text-white ss:leading-[40.8px] leading-[65px]">
           {t('hero.1')} <br className="sm:block hidden" />{" "}
             <span className="text-gradient">{t('hero.2')}</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
           </div>
         </div>
-        <h1 className="font-poppins font-semibold ss:text-[32px] text-[52px] text-white ss:leading-[40.8px] leading-[75px] w-full hover:after:">
+        <h1 className="font-poppins font-semibold ss:text-[32px] text-[42px] text-white ss:leading-[40.8px] leading-[65px] w-full hover:after:">
         {t('hero.3')}
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>

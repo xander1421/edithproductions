@@ -1,5 +1,5 @@
 {
-  "hero":{
+	"hero":{
         "1": "Новое",
         "2": "Поколение",
         "3": "развития инфраструктуры.",
@@ -10,13 +10,123 @@
 		"1": "Начать",
 		"2": ""
 	},
-	"navigation":{
-		"1": "Home",
-		"2": "Services",
-		"3": "Projects",
-		"4": "Clients",
-		"5": "Contacts"
+	"navLinks":{
+		"0": "Дом",
+		"1": "Услуги",
+		"2": "Проекты",
+		"3": "Клиенты",
+		"4": "Контакты"
+	},
+	"FeatureCard":{
+		"FeatureCard1":{
+			"title": "ISO сертифицирован",
+			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 
-	}
+		},
+		"FeatureCard2":{
+			"title": "100% Готовые проекты",
+			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 
+		},
+		"FeatureCard3":{
+			"title": "Легкое общение",
+			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		}
+
+	},
+	"BusinessCard":{
+		"title": "Почему нужно выбрать нас",
+		"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+	},
+	"Button":{
+		"1": "Начать"
+
+	},
+	"CardDeal":{
+		"1": "Посмотрите наши последние",
+		"2": "проекты.",
+		"3": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+	},
+	"BillingCard":{
+		"1": "Контролируйте развитие",
+		"2": "вашего проекта",
+		"3": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	"StatsCards":{
+
+		"StatsCard1":{
+			"title": "Довольные клиенты",
+			"content": "30+"
+
+		},
+		"StatsCard2":{
+			"title": "Лет на рынке",
+			"content": "7+"
+
+		},
+		"StatsCard3":{
+			"title": "Завершенные проекты",
+			"content": "40+"
+		}
+
+	},
+	"Contacts":{
+		"1": "Свяжись с нами",
+		"2": "в качестве первого клиента получите бесплатную оценку!!"
+	},
+	"TestimonialsCard":{
+		"1": "Что люди ",
+		"2": "говорят о нас",
+		"3": "Мы — команда, к которой вы обращаетесь, когда хотите начать строительство инфраструктуры, которая будет служить поколениям."
+	},
+	"FeedbackCard":{
+		"FeedbackCard1":{
+			"name": "RU-Steve Mark",
+			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "Основатель и лидер"
+
+
+		},
+		"FeedbackCard2":{
+			"name": "RU-Herman Jensen",
+			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "Основатель и лидер"
+		},
+		"FeedbackCard3":{
+			"name": "RU-Kenn Gallagher",
+			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+			"title": "Основатель и лидер"
+		}
+
+	},
+	"FooterText":{
+		"Text": "Новый способ построения инфраструктуры, надежный и безопасный."
+	},
+	"FooterCategory":{
+		"0": "Полезная ссылка",
+		"1": "Сообщество",
+		"2": "Партнер"
+	},
+	"FooterCard":[
+		{
+			"0": "RU-Content",
+			"1": "RU-How it Works",
+			"2": "RU-Create",
+			"3": "RU-Explore",
+			"4": "RU-Terms & Services"
+		},
+		{
+			"0": "RU-Help Center",
+			"1": "RU-Partners",
+			"2": "RU-Suggestions",
+			"3": "RU-Blog",
+			"4": "RU-Newsletters"
+		},
+		{
+			"0": "RU-Our Partner",
+			"1": "RU-Become a Partner"
+		}
+	]
 }
