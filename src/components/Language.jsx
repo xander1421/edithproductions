@@ -45,13 +45,13 @@ const Language = () => {
 
           <select className="bg-primary w-full font-poppins font-normal cursor-pointer text-[16px] text-white" onChange={handleChangeLocale} value={language}>
               <option key="ro" value="ro">
-                RO
+                Română
               </option>
               <option key="en" value="en">
-                EN
+                English
               </option>
                 <option key="ru" value="ru">
-                RU
+                Русский
               </option>
           </select>
         </div>

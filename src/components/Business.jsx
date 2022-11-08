@@ -83,8 +83,6 @@ const Business = () =>  {
         <FeatureCard1 key="feature-1"/>
         <FeatureCard2 key="feature-2"/>
         <FeatureCard3 key="feature-3"/>
-
-
     </div>
   </section>
   );
