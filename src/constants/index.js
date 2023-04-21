@@ -98,23 +98,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.edithproductions.com/content/",
+        link: "https://www.hidroservicii.com/content/",
       },
       {
         name: "How it Works",
-        link: "https://www.edithproductions.com/how-it-works/",
+        link: "https://www.hidroservicii.com/how-it-works/",
       },
       {
         name: "Create",
-        link: "https://www.edithproductions.com/create/",
+        link: "https://www.hidroservicii.com/create/",
       },
       {
         name: "Explore",
-        link: "https://www.edithproductions.com/explore/",
+        link: "https://www.hidroservicii.com/explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.edithproductions.com/terms-and-services/",
+        link: "https://www.hidroservicii.com/terms-and-services/",
       },
     ],
   },
@@ -123,23 +123,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.edithproductions.com/help-center/",
+        link: "https://www.hidroservicii.com/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.edithproductions.com/partners/",
+        link: "https://www.hidroservicii.com/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.edithproductions.com/suggestions/",
+        link: "https://www.hidroservicii.com/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.edithproductions.com/blog/",
+        link: "https://www.hidroservicii.com/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.edithproductions.com/newsletters/",
+        link: "https://www.hidroservicii.com/newsletters/",
       },
     ],
   },
@@ -148,11 +148,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.edithproductions.com/our-partner/",
+        link: "https://www.hidroservicii.com/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.edithproductions.com/become-a-partner/",
+        link: "https://www.hidroservicii.com/become-a-partner/",
       },
     ],
   },

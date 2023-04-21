@@ -1,6 +1,5 @@
 import styles from "./style";
 import { Billing, Business, CardDeal, Clients, Contacts, Footer, Navbar, Stats, Testimonials, Hero, Language } from "./components";
-import { useEffect } from "react";
 
 const App = () => {
   return (
@@ -19,7 +18,7 @@ const App = () => {
           <Hero />
         </div>
       </div>
-      
+        
       <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Stats />

@@ -1,15 +1,15 @@
-FROM node:16-alpine as builder
+FROM node:19-alpine3.15 as builder
 # Set the working directory to /app inside the container
 WORKDIR /app
 # Copy app files
 COPY . .
 # Install dependencies (npm ci makes sure the exact versions in the lockfile gets installed)
-RUN npm ci 
+RUN yarn install
 # Build the app
-RUN npm run build
+RUN yarn run build
 
 # Bundle static assets with nginx
-FROM nginx:1.21.0-alpine as production
+FROM nginx:1.23.2-alpine as production
 ENV NODE_ENV production
 # Copy built assets from `dist` image
 COPY --from=builder /app/dist /usr/share/nginx/html
