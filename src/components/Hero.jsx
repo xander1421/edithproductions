@@ -13,7 +13,7 @@ const Hero = () => {
 
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className="flex flex-row justify-between items-center w-full">
-          <h1 className="flex-1 font-poppins font-semibold ss:text-[32px] text-[42px] text-red ss:leading-[40.8px] leading-[65px]">
+          <h1 className="flex-1 font-poppins font-semibold ss:text-[32px] text-[42px] text-white ss:leading-[40.8px] leading-[65px]">
           {t('hero.1')} <br className="sm:block hidden" />{" "}
             <span className="text-gradient">{t('hero.2')}</span>{" "}
           </h1>
