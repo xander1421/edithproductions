@@ -29,6 +29,8 @@ const Hero = () => {
       <div className="">
         <GetStarted/>
       </div>
+        
+
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
