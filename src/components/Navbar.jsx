@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
   <div >
     <nav className="relative w-full flex flex-row py-6 justify-between items-center navbar">
-      <img onClick={() => window.location.replace("/")} src={logo} alt="hidroservicii" className="w-[200px] h-[54px]" />
+      <img onClick={() => window.location.replace("/")} src={logo} alt="hidroservicii" className="w-[200px] h-[54px] cursor-pointer" />
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
       </ul>
 {/* DESKTOP */}
