@@ -128,11 +128,5 @@
 			"0": "RU-Our Partner",
 			"1": "RU-Become a Partner"
 		}
-	],
-	"clients":{
-        "1": "airbnb",
-        "2": "binance",
-        "3": "coinbase",
-        "4": "dropbox"
-	}
+	]
 }

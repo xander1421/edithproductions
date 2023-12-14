@@ -13,7 +13,6 @@
 		"0": "Home",
 		"1": "Services",
 		"2": "Projects",
-		"3": "Clients",
 		"4": "Contacts"
 	},
 	"FeatureCard":{
@@ -126,12 +125,6 @@
 			"0": "Our Partner",
 			"1": "Become a Partner"
 		}
-	],
-	"clients":{
-        "1": "airbnb",
-        "2": "binance",
-        "3": "coinbase",
-        "4": "dropbox"
-	}
+	]
 
 }

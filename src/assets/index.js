@@ -1,9 +1,5 @@
-import airbnb from "./airbnb.png";
 import bill from "./bill.webp";
-import binance from "./binance.png";
 import card from "./card.webp";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
 import robot from "./robot.webp";
@@ -26,12 +22,8 @@ import people03 from "./people03.png";
 import globe from "./globe.svg"
 
 export {
-  airbnb,
   bill,
-  binance,
   card,
-  coinbase,
-  dropbox,
   logo,
   quotes,
   robot,
