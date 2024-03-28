@@ -2,7 +2,7 @@
 	"hero":{
 		"1": "A new",
 		"2": "Approach",
-		"3": "to infrastructure development.",
+		"3": "To infrastructure development.",
 		"4": "In the domain of thermal and sanitary installation works, as well as the construction of water and sewerage systems alongside municipal services, a contemporary approach underscores sustainability and resilience, employing cutting-edge technology and efficient resource management."
 	},
 	"getStarted":{
@@ -13,7 +13,7 @@
 		"0": "Home",
 		"1": "Services",
 		"2": "Projects",
-		"4": "Contacts"
+		"3": "Navigation"
 	},
 	"FeatureCard":{
 		"FeatureCard1":{
@@ -33,8 +33,8 @@
 
 	},
 	"BusinessCard":{
-		"title": "Why choose us",
-		"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		"title": "Why choose us?",
+		"content": "Because we prioritize quality, reliability, and customer satisfaction. Our team is dedicated to delivering exceptional service, backed by expertise and innovation. With us, you can trust that your needs will be met efficiently and effectively."
 
 	},
 	"Button":{
@@ -50,29 +50,29 @@
 	"BillingCard":{
 		"1": "Control your",
 		"2": "projects development",
-		"3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		"3": "Take command of your project's development with comprehensive solutions. You have the ability to oversee every aspect, from planning to execution, ensuring timely progress and successful outcomes. With us, stay on top of things."
 	},
 	"StatsCards":{
 
 		"StatsCard1":{
 			"title": "Satisfied clients",
-			"content": "30+"
+			"content": "450+"
 
 		},
 		"StatsCard2":{
 			"title": "Years on the market",
-			"content": "7+"
+			"content": "15+"
 
 		},
 		"StatsCard3":{
 			"title": "Projects finished",
-			"content": "40+"
+			"content": "400+"
 		}
 
 	},
 	"Contacts":{
 		"1": "Get in touch with us",
-		"2": "Get an free estimate as a first time customer!!"
+		"2": "Puskin Street 22, Office 521, MD-2012, Chisinau, Republic of Moldova"
 	},
 	"TestimonialsCard":{
 		"1": "What People are",
