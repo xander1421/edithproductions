@@ -14,9 +14,9 @@ const Contacts = () => {
       </div>
       <div className="flex items-stretch">
         <ul >
-          <h3 className={styles.heading2_smaller}>John smith</h3>
-          <h3 className={styles.heading2_smaller}>987654321</h3>
-          <h3 className={styles.heading2_smaller}>example@example.com</h3>
+          <h3 className={styles.heading2_smaller}>SRL Hidro-Servicii</h3>
+          <h3 className={styles.heading2_smaller}>+373 60999515</h3>
+          <h3 className={styles.heading2_smaller}>hidro.servicii@gmail.com</h3>
         </ul>
       </div>
     </section>

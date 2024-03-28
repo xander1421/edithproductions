@@ -2,7 +2,7 @@
   "hero":{
         "1": "O nouă",
         "2": "Abordare",
-        "3": "a dezvoltării infrastructurii.",
+        "3": "A dezvoltării infrastructurii.",
         "4": "În domeniul lucrărilor de instalații termice și sanitare, precum și în construcția sistemelor de apă și canalizare alături de serviciile municipale, se pune accent pe sustenabilitate și reziliență, folosind tehnologie de vârf și gestionare eficientă a resurselor."
 	},
 	"getStarted":{
@@ -13,8 +13,8 @@
 		"0": "Despre",
 		"1": "Servicii",
 		"2": "Proiecte",
-		"3": "Clienți",
-		"4": "Contacte"
+		"3": "Navigare"
+		
 	},
 	"FeatureCard":{
 		"FeatureCard1":{
@@ -35,7 +35,7 @@
 	},
 	"BusinessCard":{
 		"title": "De ce noi",
-		"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		"content": "Pentru că prioritizăm calitatea, fiabilitatea și satisfacția clienților. Echipa noastră este dedicată livrării unui serviciu excepțional, sprijinită de expertiză și inovație. Cu noi, puteți avea încredere că nevoile dvs. vor fi satisfăcute eficient și eficace."
 
 	},
 	"Button":{
@@ -51,29 +51,29 @@
 	"BillingCard":{
 		"1": "Controlează",
 		"2": "dezvoltarea proiectelor",
-		"3": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		"3": "Controlați dezvoltarea proiectelor dvs. cu soluții cuprinzătoare. Aveți posibilitatea să supravegheați fiecare aspect, de la planificare la execuție, asigurând progresul în timp util și rezultate de succes. Cu noi, țineți pasul cu proiectul."
 	},
 	"StatsCards":{
 
 		"StatsCard1":{
 			"title": "Clienți satisfăcuți",
-			"content": "30+"
+			"content": "450+"
 
 		},
 		"StatsCard2":{
 			"title": "Ani pe piață",
-			"content": "7+"
+			"content": "15+"
 
 		},
 		"StatsCard3":{
 			"title": "Proiecte finalizated",
-			"content": "40+"
+			"content": "400+"
 		}
 
 	},
 	"Contacts":{
-		"1": "Intră în contact cu noi",
-		"2": "RO-Get an free estimate as a first time customer!!"
+		"1": "Contactează-ne",
+		"2": "str. Pușkin 22, of. 521, MD-2012, mun. Chișinău, Republica Moldova"
 	},
 	"TestimonialsCard":{
 		"1": "Ce spun clientii nostri",
