@@ -8,7 +8,7 @@ import './i18n';
 // Your Loading component remains the same
 const Loading = () => {
   return (
-    <div className="w-screen h-screen flex justify-center items-center bg-black text-white">
+    <div className="w-screen h-screen flex justify-center items-center bg-primary text-white">
       ...is loading
     </div>
   );
