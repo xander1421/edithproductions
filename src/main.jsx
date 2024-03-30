@@ -10,19 +10,18 @@ const AppWrapper = () => {
 
   useEffect(() => {
     // Simulate a loading delay or wait for other app readiness checks
-    const timer = setTimeout(() => setLoading(false), 300); // Adjust delay as necessary
+    const timer = setTimeout(() => setLoading(false), 0); // Adjust delay as necessary
     return () => clearTimeout(timer);
   }, []);
 
   return (
     <>
       {/* Loading Overlay */}
-      <div className={`fixed inset-0 z-50 flex justify-center items-center bg-primary text-white transition-opacity duration-1000 ${loading ? 'opacity-100' : 'opacity-0'}`} aria-hidden={!loading}>
-
+      <div className={`fixed inset-0 z-50 flex justify-center items-center bg-primary text-white transition-opacity duration-900 ${loading ? 'opacity-100' : 'opacity-0'}`} aria-hidden={!loading}>
       </div>
 
       {/* App Content */}
-      <div className={`flex-grow transition-opacity duration-300 ${!loading ? 'opacity-100' : 'opacity-0'}`}>
+      <div className={`flex-grow transition-opacity duration-900 ${!loading ? 'opacity-100' : 'opacity-0'}`}>
         <Suspense fallback={<div aria-hidden="true"></div>}>
           <App />
         </Suspense>
