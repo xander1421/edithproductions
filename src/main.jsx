@@ -1,23 +1,38 @@
-import React, { Suspense, lazy } from 'react';
+import React, { Suspense, lazy, useState, useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
-// Dynamically import the App component
-const App = lazy(() => import('./App'));
-import './index.css';
+import './index.css'; // Ensures TailwindCSS is loaded
 import './i18n';
 
-// Your Loading component remains the same
-const Loading = () => {
+const App = lazy(() => import('./App'));
+
+const AppWrapper = () => {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Simulate a loading delay or wait for other app readiness checks
+    const timer = setTimeout(() => setLoading(false), 300); // Adjust delay as necessary
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
-    <div className="w-screen h-screen flex justify-center items-center bg-primary text-white">
-      ...is loading
-    </div>
+    <>
+      {/* Loading Overlay */}
+      <div className={`fixed inset-0 z-50 flex justify-center items-center bg-primary text-white transition-opacity duration-1000 ${loading ? 'opacity-100' : 'opacity-0'}`} aria-hidden={!loading}>
+
+      </div>
+
+      {/* App Content */}
+      <div className={`flex-grow transition-opacity duration-300 ${!loading ? 'opacity-100' : 'opacity-0'}`}>
+        <Suspense fallback={<div aria-hidden="true"></div>}>
+          <App />
+        </Suspense>
+      </div>
+    </>
   );
 };
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Suspense fallback={<Loading />}>
-      <App />
-    </Suspense>
+    <AppWrapper />
   </React.StrictMode>
 );
