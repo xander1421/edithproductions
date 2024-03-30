@@ -82,21 +82,21 @@
 	},
 	"FeedbackCard":{
 		"FeedbackCard1":{
-			"name": "RO-Steve Mark",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "RO-Founder & Leader"
+			"name": "Arhimede din Siracuza",
+			"content": "Niciodată până acum Legea lui Arhimede nu a mai fost vizualizată într-un mod atât de amplu și epic.",
+			"title": "Matematician, Fizician, Inginer, Astronom și Inventator"
 
 
 		},
 		"FeedbackCard2":{
 			"name": "Diogene din Sinope",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "RO-Founder & Leader"
+			"content": "Datorită profesionalismului lor, butoiul meu este acum mai confortabil decât locuința zeilor de pe Olimp.",
+			"title": "Filosof, fondator al Cinismului"
 		},
 		"FeedbackCard3":{
-			"name": "RO-Kenn Gallagher",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "RO-Founder & Leader"
+			"name": "Appius Claudius Caecus",
+			"content": "Ați auzit cu toții despre apeductele și drumurile din Roma? Acum știți cine le-a construit.",
+			"title": "Om de stat și scriitor"
 		}
 
 	},

@@ -81,11 +81,9 @@
 	},
 	"FeedbackCard":{
 		"FeedbackCard1":{
-			"name": "Steve Mark",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Founder & Leader"
-
-
+			"name": "Archimedes of Syracuse",
+			"content": "The Archimedes' Principle has never been visualized so grandly and epically before.",
+			"title": "Mathematician, Physicist, Engineer, Astronomer, and Inventor"
 		},
 		"FeedbackCard2":{
 			"name": "Diogenes of Sinope",
@@ -93,9 +91,9 @@
 			"title": "Philosopher, Founder of Cynicism"
 		},
 		"FeedbackCard3":{
-			"name": "Kenn Gallagher",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Founder & Leader"
+			"name": "Appius Claudius Caecus",
+			"content": "Have you all heard about the aqueducts and roads of Rome? Now you know who built them.",
+			"title": "A statesman and writer"
 		}
 	},
 	"FooterText":{

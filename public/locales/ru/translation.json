@@ -83,9 +83,9 @@
 	},
 	"FeedbackCard":{
 		"FeedbackCard1":{
-			"name": "RU-Steve Mark",
-			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Основатель и лидер"
+			"name": "Архимед Сиракузский",
+			"content": "Никогда еще Закон Архимеда не был визуализирован так масштабно и эпично.",
+			"title": "Математик, Физик, Инженер, Астроном и Изобретатель"
 
 
 		},
@@ -95,9 +95,9 @@
 			"title": "Философ, Основатель Кинизма"
 		},
 		"FeedbackCard3":{
-			"name": "RU-Kenn Gallagher",
-			"content": "RU-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Основатель и лидер"
+			"name": "Аппий Клавдий Цек ",
+			"content": "Все слышали про акведуки и дороги Рима? Теперь вы знаете кто их построил.",
+			"title": "Государственный деятель и писатель"
 		}
 
 	},
