@@ -81,19 +81,17 @@
 		"3": "Suntem echipa pe care o suni atunci cand vrei sa incepi sa construiesti infrastructuri care vor dura generații"
 	},
 	"FeedbackCard":{
-		"FeedbackCard1":{
+		"feedback-1":{
 			"name": "Arhimede din Siracuza",
 			"content": "Niciodată până acum Legea lui Arhimede nu a mai fost vizualizată într-un mod atât de amplu și epic.",
 			"title": "Matematician, Fizician, Inginer, Astronom și Inventator"
-
-
 		},
-		"FeedbackCard2":{
+		"feedback-2":{
 			"name": "Diogene din Sinope",
 			"content": "Datorită profesionalismului lor, butoiul meu este acum mai confortabil decât locuința zeilor de pe Olimp.",
 			"title": "Filosof, fondator al Cinismului"
 		},
-		"FeedbackCard3":{
+		"feedback-3":{
 			"name": "Appius Claudius Caecus",
 			"content": "Ați auzit cu toții despre apeductele și drumurile din Roma? Acum știți cine le-a construit.",
 			"title": "Om de stat și scriitor"

@@ -20,7 +20,7 @@ const Language = () => {
   const { t, i18n } = useTranslation();
   const changeLanguage = lng => {i18n.changeLanguage(lng);};
 
-  const currentLocale = Cookies.get("i18next") || "en";
+  const currentLocale = Cookies.get("i18next") || "ro";
 
   const [language, setLanguage] = useState(currentLocale);
 
@@ -41,8 +41,6 @@ const Language = () => {
         <img src={globe} className="w-[22px] h-[22px]"/>
         <div className="switcher">
           {/* Language switch dropdown here */}
-          
-
           <select className="bg-primary w-full font-poppins font-normal cursor-pointer text-[16px] text-white" onChange={handleChangeLocale} value={language}>
               <option key="ro" value="ro">
                 Română

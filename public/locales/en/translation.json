@@ -80,21 +80,20 @@
 		"3": "We are the team you call when you want to start building infrastructure that will last generations."
 	},
 	"FeedbackCard":{
-		"FeedbackCard1":{
+		"feedback-1":{
 			"name": "Archimedes of Syracuse",
 			"content": "The Archimedes' Principle has never been visualized so grandly and epically before.",
 			"title": "Mathematician, Physicist, Engineer, Astronomer, and Inventor"
 		},
-		"FeedbackCard2":{
+		"feedback-2":{
 			"name": "Diogenes of Sinope",
 			"content": "Thanks to their professionalism, my barrel is now more comfortable than the abode of gods on Olympus.",
 			"title": "Philosopher, Founder of Cynicism"
 		},
-		"FeedbackCard3":{
+		"feedback-3":{
 			"name": "Appius Claudius Caecus",
 			"content": "Have you all heard about the aqueducts and roads of Rome? Now you know who built them.",
-			"title": "A statesman and writer"
-		}
+			"title": "A statesman and writer"		}
 	},
 	"FooterText":{
 		"Text": "A new way build infrastructure, reliably and secure."

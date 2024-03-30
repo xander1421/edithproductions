@@ -22,51 +22,30 @@ export const navLinks = [
 export const services = [
   {
     id: "feature-1",
-    icon: star,
-    title: "ISO Certified",
-    content:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    icon: star
   },
   {
     id: "feature-2",
-    icon: shield,
-    title: "100% Project completion",
-    content:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    icon: shield
   },
   {
     id: "feature-3",
-    icon: send,
-    title: "Easy communication",
-    content:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    icon: send
   },
 ];
 
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
+    img: people01
   },
   {
     id: "feedback-2",
-    content:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+    img: people02
   },
   {
     id: "feedback-3",
-    content:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+    img: people03
   },
 ];
 
@@ -85,72 +64,6 @@ export const stats = [
     id: "stats-3",
     title: "Projects finished",
     value: "400+",
-  },
-];
-
-export const footerLinks = [
-  {
-    title: "Useful Links",
-    links: [
-      {
-        name: "Content",
-        link: "https://www.hidroservicii.com/content/",
-      },
-      {
-        name: "How it Works",
-        link: "https://www.hidroservicii.com/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.hidroservicii.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.hidroservicii.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hidroservicii.com/terms-and-services/",
-      },
-    ],
-  },
-  {
-    title: "Community",
-    links: [
-      {
-        name: "Help Center",
-        link: "https://www.hidroservicii.com/help-center/",
-      },
-      {
-        name: "Partners",
-        link: "https://www.hidroservicii.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.hidroservicii.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hidroservicii.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hidroservicii.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hidroservicii.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hidroservicii.com/become-a-partner/",
-      },
-    ],
   },
 ];
 
