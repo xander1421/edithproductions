@@ -13,28 +13,28 @@
 		"0": "Home",
 		"1": "Services",
 		"2": "Projects",
-		"3": "Navigation"
+		"3": "Contact us"
 	},
 	"FeatureCard":{
 		"FeatureCard1":{
 			"title": "ISO Certified",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			"content": "Rely on our projects, ensuring quality assurance and reliability."
 
 		},
 		"FeatureCard2":{
 			"title": "100% Project completion",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			"content": "Experience the satisfaction of 100% project completion with us."
 
 		},
 		"FeatureCard3":{
 			"title": "Easy communication",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			"content": "Communication with us - simple and hassle-free. It's easy to make sure of that."
 		}
 
 	},
 	"BusinessCard":{
-		"title": "Why choose us?",
-		"content": "Because we prioritize quality, reliability, and customer satisfaction. Our team is dedicated to delivering exceptional service, backed by expertise and innovation. With us, you can trust that your needs will be met efficiently and effectively."
+		"title": "What we do?",
+		"content": "We offer and gradually complete a range of services and products in the field of industrial and civil construction. The company has personnel, equipment, and machinery to carry out activities as a contractor or sub-contractor in the following main areas: civil and industrial construction works, construction of land communication routes, including their infrastructure, plumbing, and heating works, construction of water and sewerage systems and municipal buildings."
 
 	},
 	"Button":{
@@ -42,9 +42,9 @@
 
 	},
 	"CardDeal":{
-		"1": "See our most recent",
-		"2": "projects.",
-		"3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		"1": "Why choose us",
+		"2": "for your projects?",
+		"3": "Because we prioritize quality, reliability, and customer satisfaction. Our team is dedicated to delivering exceptional service, backed by expertise and innovation. With us, you can trust that your needs will be met efficiently and effectively."
 
 	},
 	"BillingCard":{
@@ -71,7 +71,7 @@
 
 	},
 	"Contacts":{
-		"1": "Get in touch with us",
+		"1": "Contact us",
 		"2": "Puskin Street 22, Office 521, MD-2012, Chisinau, Republic of Moldova"
 	},
 	"TestimonialsCard":{
@@ -80,23 +80,20 @@
 		"3": "We are the team you call when you want to start building infrastructure that will last generations."
 	},
 	"FeedbackCard":{
-		"FeedbackCard1":{
-			"name": "Steve Mark",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Founder & Leader"
-
-
+		"feedback-1":{
+			"name": "Archimedes of Syracuse",
+			"content": "The Archimedes' Principle has never been visualized so grandly and epically before.",
+			"title": "Mathematician, Physicist, Engineer, Astronomer, and Inventor"
 		},
-		"FeedbackCard2":{
-			"name": "Herman Jensen",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Founder & Leader"
+		"feedback-2":{
+			"name": "Diogenes of Sinope",
+			"content": "Thanks to their professionalism, my barrel is now more comfortable than the abode of gods on Olympus.",
+			"title": "Philosopher, Founder of Cynicism"
 		},
-		"FeedbackCard3":{
-			"name": "Kenn Gallagher",
-			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "Founder & Leader"
-		}
+		"feedback-3":{
+			"name": "Appius Claudius Caecus",
+			"content": "Have you all heard about the aqueducts and roads of Rome? Now you know who built them.",
+			"title": "A statesman and writer"		}
 	},
 	"FooterText":{
 		"Text": "A new way build infrastructure, reliably and secure."

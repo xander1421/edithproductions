@@ -13,29 +13,29 @@
 		"0": "Despre",
 		"1": "Servicii",
 		"2": "Proiecte",
-		"3": "Navigare"
+		"3": "Contactați-ne"
 		
 	},
 	"FeatureCard":{
 		"FeatureCard1":{
 			"title": "ISO certificare",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			"content": "Bazați-vă pe proiectele noastre, asigurând calitatea și fiabilitatea."
 
 		},
 		"FeatureCard2":{
 			"title": "100% Proiecte finisate",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			"content": "Simțiți satisfacția finalizării proiectului în proporție de 100% cu noi."
 
 		},
 		"FeatureCard3":{
 			"title": "Comunicare usoara",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			"content": "Comunicarea cu noi - simplu și fără bătăi de cap. E ușor să te convingi că așa e."
 		}
 
 	},
 	"BusinessCard":{
-		"title": "De ce noi",
-		"content": "Pentru că prioritizăm calitatea, fiabilitatea și satisfacția clienților. Echipa noastră este dedicată livrării unui serviciu excepțional, sprijinită de expertiză și inovație. Cu noi, puteți avea încredere că nevoile dvs. vor fi satisfăcute eficient și eficace."
+		"title": "Ce facem",
+		"content": "Noi oferim si completăm treptat o gamă de servicii si produse in domeniul construcțiilor industriale si civile. Firma dispune de personal, echipamente si utilaje astfel încât sa desfășoară activități in calitate de antreprenor sau subantreprenor in următoarele domenii principale: lucrări de construcții civile si industriale, construcții de cai de comunicații terestre, inclusiv infrastructura acestora, lucrări de instalații termice si sanitare, construcții hidroedilitare si de gospodărire comunală. "
 
 	},
 	"Button":{
@@ -43,9 +43,9 @@
 
 	},
 	"CardDeal":{
-		"1": "Vezi cele mai recente proiecte ale noastre",
-		"2": "",
-		"3": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		"1": "De ce noi suntem",
+		"2": "alegerea perfectă?",
+		"3": "Pentru că prioritizăm calitatea, fiabilitatea și satisfacția clienților. Echipa noastră este dedicată livrării unui serviciu excepțional, sprijinită de expertiză și inovație. Cu noi, puteți avea încredere că nevoile dvs. vor fi satisfăcute eficient și eficace."
 
 	},
 	"BillingCard":{
@@ -66,13 +66,13 @@
 
 		},
 		"StatsCard3":{
-			"title": "Proiecte finalizated",
+			"title": "Proiecte finalizate",
 			"content": "400+"
 		}
 
 	},
 	"Contacts":{
-		"1": "Contactează-ne",
+		"1": "Contactați-ne",
 		"2": "str. Pușkin 22, of. 521, MD-2012, mun. Chișinău, Republica Moldova"
 	},
 	"TestimonialsCard":{
@@ -81,22 +81,20 @@
 		"3": "Suntem echipa pe care o suni atunci cand vrei sa incepi sa construiesti infrastructuri care vor dura generații"
 	},
 	"FeedbackCard":{
-		"FeedbackCard1":{
-			"name": "RO-Steve Mark",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "RO-Founder & Leader"
-
-
+		"feedback-1":{
+			"name": "Arhimede din Siracuza",
+			"content": "Niciodată până acum Legea lui Arhimede nu a mai fost vizualizată într-un mod atât de amplu și epic.",
+			"title": "Matematician, Fizician, Inginer, Astronom și Inventator"
 		},
-		"FeedbackCard2":{
-			"name": "RO-Herman Jensen",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "RO-Founder & Leader"
+		"feedback-2":{
+			"name": "Diogene din Sinope",
+			"content": "Datorită profesionalismului lor, butoiul meu este acum mai confortabil decât locuința zeilor de pe Olimp.",
+			"title": "Filosof, fondator al Cinismului"
 		},
-		"FeedbackCard3":{
-			"name": "RO-Kenn Gallagher",
-			"content": "RO-Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-			"title": "RO-Founder & Leader"
+		"feedback-3":{
+			"name": "Appius Claudius Caecus",
+			"content": "Ați auzit cu toții despre apeductele și drumurile din Roma? Acum știți cine le-a construit.",
+			"title": "Om de stat și scriitor"
 		}
 
 	},
